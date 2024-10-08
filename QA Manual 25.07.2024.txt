@@ -1,3 +1,4 @@
+
 QA Manual HW#11
 
 echo "Це другий рядок." example.txt
