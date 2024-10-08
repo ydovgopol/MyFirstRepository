@@ -2,4 +2,6 @@
 QA Manual HW#11
 
 echo "Це другий рядок." example.txt
+New line
 
+Adding a new line.
