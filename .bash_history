@@ -79,3 +79,43 @@ echo "Hello world" > new_file.txt
 git add new_file.txt
 git commit -m "Created new.file.txt with 'Hello world'"
 git push origin Yana.Dovgopol.gitpractice
+git add .
+git commit -m "New changes"
+git add
+git add .
+git add .
+git remote show origin
+git fetch origin
+git remote set-head origin -a
+git add .
+git add /
+git add ,
+git add .
+git init
+git remote add origin https://github.com/ydovgopol/MyFirstRepository
+git add .
+git remote add origina <https://www.github.com/ydovgopol/MyFirstRepository
+git remote add origin <repository-http://www.github/ydovgopol/MyFirstRepository>
+git remote -v
+git add .
+ssh-kygen -t rsa -b 4096 -C "ydovgopol@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "ydovgopol@gmail.com"
+icacls <.vscode>
+icacls <MyFirstRepository-main>
+cd path/to/MyFirstRepository-main
+git config --globa; --list
+git confir --global user.name "Yana Dovgopol"
+git config --global user.name "Yana Dovgopol"
+git congif --global user.email "ydovgopol@gmail.com"
+git config --global user.email 
+ git config --global user.email "ydovgopol@gmail.com"
+ssh -T git@github.com
+y
+git checkout <HW12-13>
+git checkout HW 12-13
+git add .
+git add <C:\Users\Yana Dovgopol\Downloads\MyFirstRepository-main\.vscode\pages\>
+git status
+git status -u
+git fsck
+git add .
